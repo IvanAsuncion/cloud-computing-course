@@ -1,3 +1,5 @@
+# Cloud Concepts Reflection
+
 Cloud computing is very important in my daily life because many apps I use everyday rely on cloud services. Three apps that I always use are GCash, Google Drive, and Messenger. These apps make my daily activities so much easier, like when I transfer money, save my school files, or talk with my classmates and friends.
 
 GCash is a Software as a Service or SaaS application because I just use its features on my phone without managing any technical infrastructure. It operates on a Public Cloud model because millions of users securely access the same platform over the internet. Google Drive is also a SaaS app because I can store and share files online without buying or setting up physical storage servers. It is a Public Cloud service too because anyone around the world can use it over the internet. Messenger is another SaaS app that lets me send messages and make calls. Like Google Drive, it uses a Public Cloud deployment model because Meta provides this service to a huge number of users using their public infrastructure.
