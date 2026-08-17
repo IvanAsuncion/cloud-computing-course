@@ -22,8 +22,7 @@ The **Azure Portal** is a web-based, unified management console that provides an
 * **Azure Cloud Shell:** An interactive, browser-accessible shell that allows administrators to execute Azure CLI or Azure PowerShell commands directly from the browser.
 * **Integrated Cost Management:** Native visibility into enterprise cloud spending, budget alerts, and cost optimization recommendations via Azure Advisor.
 
-![Azure Portal Overview]([screenshots/azure-homepage.png](https://github.com/IvanAsuncion/cloud-computing-course/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/azure-homepage.PNG))
-> *Note: Place your screenshot of the Azure Portal or Azure official homepage in the `screenshots/azure-homepage.png` directory.*
+![Azure Portal Overview]([screenshots/azure-homepage.png](https://github.com/IvanAsuncion/cloud-computing-course/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/azure-homepage.PNG)
 
 ---
 
