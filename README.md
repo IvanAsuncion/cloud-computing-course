@@ -1,3 +1,5 @@
+# cloud-computing-course
+Repository for course activities, notes, and projects in Cloud Computing.
 # Cloud Computing Course Repository
 
 > *A collection of activities, outputs, and learning resources for [CCM101]*
@@ -22,14 +24,11 @@ This repo serves as my organized workspace for all course requirements, includin
 
 cloud-computing-course/
 
+├── Laboratory-03-Multi-Cloud-Explorer/
 ├── activities/
-
 ├── projects/
-
 ├── notes/
-
 ├── reflections/
-
 └── README.md
 
 ## 📖 Key Concepts Covered
