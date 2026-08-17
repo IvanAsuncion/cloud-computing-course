@@ -24,7 +24,6 @@ This repo serves as my organized workspace for all course requirements, includin
 
 ## 📂 Repository Structure
 
-```text
 cloud-computing-course/
 │
 ├── Laboratory-01-Welcome-to-the-Cloud/
@@ -35,3 +34,10 @@ cloud-computing-course/
 ├── notes/
 ├── reflections/
 └── README.md
+
+## Key Concepts Covered
+Cloud Computing Basics
+Service Models (IaaS, PaaS, SaaS)
+Deployment Models (Public, Private, Hybrid, Community)
+Version Control with Git & GitHub
+Cloud Infrastructure Management
