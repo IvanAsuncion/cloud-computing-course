@@ -22,10 +22,8 @@ The **AWS Management Console** is a web-based graphical interface used to access
 * **Resource Groups & Tagging:** Ability to organize and manage resources logically based on project, environment, or team tags.
 * **Integrated CloudShell:** Browser-based command-line interface (CLI) directly accessible from the console for running AWS CLI scripts without local software installation.
 
-![AWS Management Console Overview](screenshots/aws-homepage.png)
-> *Note: Place your screenshot of the AWS Management Console or AWS official homepage in the `screenshots/aws-homepage.png` directory.*
+![AWS Management Console Overview]([screenshots/aws-homepage.png](https://github.com/IvanAsuncion/cloud-computing-course/tree/main/Laboratory-03-Multi-Cloud-Explorer/screenshots))
 
----
 
 ## Four (4) Core Services
 
