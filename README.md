@@ -1,6 +1,6 @@
 # Cloud Computing Course Repository
 
-> *A collection of activities, outputs, and learning resources for [Course Name/Code]*
+> *A collection of activities, outputs, and learning resources for [BSIT/CCM101]*
 
 ## 📌 About This Repository
 
